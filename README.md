@@ -1,2 +1,2 @@
 # inception
-This repository contain all my python projects.
+This repository contain all my data science projects.
